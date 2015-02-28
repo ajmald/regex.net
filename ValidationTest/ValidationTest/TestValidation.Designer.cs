@@ -128,9 +128,9 @@
             this.label7.AutoSize = true;
             this.label7.Location = new System.Drawing.Point(27, 310);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(84, 17);
+            this.label7.Size = new System.Drawing.Size(205, 17);
             this.label7.TabIndex = 9;
-            this.label7.Text = "Postal Code";
+            this.label7.Text = "Mauritian Postal Code (5 digits)";
             // 
             // EmailTextBox
             // 

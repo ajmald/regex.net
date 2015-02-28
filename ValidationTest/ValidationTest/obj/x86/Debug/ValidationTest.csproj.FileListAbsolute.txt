@@ -6,3 +6,11 @@ c:\users\dookhana\documents\visual studio 2010\Projects\ValidationTest\Validatio
 c:\users\dookhana\documents\visual studio 2010\Projects\ValidationTest\ValidationTest\obj\x86\Debug\ValidationTest.pdb
 C:\Users\dookhana\documents\visual studio 2010\Projects\ValidationTest\ValidationTest\obj\x86\Debug\ValidationTest.csprojResolveAssemblyReference.cache
 C:\Users\dookhana\Documents\Visual Studio 2010\Projects\ValidationTest\ValidationTest\obj\x86\Debug\ValidationTest.TestValidation.resources
+C:\Users\dookhana\Documents\GitHub\regex.net\ValidationTest\ValidationTest\obj\x86\Debug\ValidationTest.exe
+C:\Users\dookhana\Documents\GitHub\regex.net\ValidationTest\ValidationTest\obj\x86\Debug\ValidationTest.pdb
+C:\Users\dookhana\Documents\GitHub\regex.net\ValidationTest\ValidationTest\bin\Debug\ValidationTest.exe
+C:\Users\dookhana\Documents\GitHub\regex.net\ValidationTest\ValidationTest\bin\Debug\ValidationTest.pdb
+C:\Users\dookhana\Documents\GitHub\regex.net\ValidationTest\ValidationTest\obj\x86\Debug\ValidationTest.csprojResolveAssemblyReference.cache
+C:\Users\dookhana\Documents\GitHub\regex.net\ValidationTest\ValidationTest\obj\x86\Debug\ValidationTest.Properties.Resources.resources
+C:\Users\dookhana\Documents\GitHub\regex.net\ValidationTest\ValidationTest\obj\x86\Debug\ValidationTest.TestValidation.resources
+C:\Users\dookhana\Documents\GitHub\regex.net\ValidationTest\ValidationTest\obj\x86\Debug\ValidationTest.csproj.GenerateResource.Cache
